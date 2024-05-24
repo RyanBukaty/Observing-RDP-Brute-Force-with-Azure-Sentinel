@@ -1,4 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Observing RDP Brute Force with Azure Sentinel</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
