@@ -1,7 +1,7 @@
 <h1>Observing RDP Brute Force with Azure Sentinel</h1>
 
 <h2>Description</h2>
-Project consists of a using a custom PowerShell script to extract metadata from Windows Event Viewer that is forwarded to a thrid party API in order to derive geolocation data. We can configure Log Analytics Workspace in Azure to intake custom logs and construct custom fields by using a tailored code to map the geo data. By configuring Azure Sentinel, Microsoft's Cloud SIEM, it becomes possible to exhibit international attack data, RDP brute force, on a world map according to the physical location and magnitude of attacks. 
+Project consists of using a custom PowerShell script to extract metadata from Windows Event Viewer that is forwarded to a third party API in order to derive geolocation data. We can configure Log Analytics Workspace in Azure to intake custom logs and construct custom fields by using a tailored code to map the geo data. By configuring Azure Sentinel, Microsoft's Cloud SIEM, it becomes possible to exhibit international attack data, RDP brute force, on a world map according to the physical location and magnitude of attacks. 
 <br />
 
 
