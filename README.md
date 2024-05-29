@@ -25,7 +25,7 @@ Use custom PowerShell script inside the VM to extract metadata:  <br/>
 <img src="https://i.imgur.com/uXF2YEh.png"/>
 <br />
 <br />
-Use tailored code to make a custom log with the geodata from the failed RDP log file: <br/>
+Utilize custom code to make a custom log with the geodata from the failed RDP log file: <br/>
 <img src="https://i.imgur.com/FCPcDyj.png"/>
 <br />
 <br />
