@@ -12,7 +12,7 @@ Project consists of using a custom PowerShell script to extract metadata from Wi
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b>
 
 <h2>Project walk-through:</h2>
 
